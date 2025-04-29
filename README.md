@@ -44,4 +44,4 @@ Se utilizó el modelo de clasificación **Máquina de Soporte Vectorial (Support
 El criterio que se utilizó para la elección del modelo fue el mejor clasificador de las células malignas, el cual, para una muestra de 113 casos predijo de manera correcta el total de células malignas con 2 falsos positivos (células benignas clasificadas erroneamente).
 
 ## Visualización:
-![Matriz de confusión](images/matriz_confusion_células.jpg)
+![Matriz de confusión](images/matriz_confusion_celulas.jpg)
