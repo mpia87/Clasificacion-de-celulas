@@ -15,7 +15,7 @@ Se realizaron los siguientes pasos:
 ## Dataset
 - **Nombre**: Breast Cancer Wisconsin (Original)
 - **Fuente**: [UCI Machine Learning Repository](http://mlearn.ics.uci.edu/MLRepository.html)
-- **Observaciones**: 699 muestras
+- **Observaciones**: 699 
 - **Variables**: 10 atributos relacionados con características celulares
 - **Variable objetivo**:
   - 2: Benigna
@@ -41,7 +41,7 @@ Se realizaron los siguientes pasos:
 Se utilizó el modelo de clasificación **Máquina de Soporte Vectorial (Support Vector Machine)** con kernel lineal para clasificar las células.
 
 ## Evaluación y elección del modelo
-El criterio que se utilizó para la elección del modelo fue el mejor clasificador de las células malignas, el cual, para una muestra de 113 casos predijo de manera correcta el total de células malignas con 2 falsos positivos (células benignas clasificadas erroneamente).
+El criterio que se utilizó para la elección del modelo fue el mejor clasificador de las células malignas, el cual, para el conjunto de prueba de 113 casos, predijo de manera correcta el total de células malignas con 2 falsos positivos (células benignas clasificadas erroneamente).
 
 ## Visualización:
 ![Matriz de confusión](matriz_confusion_celulas.jpg)
