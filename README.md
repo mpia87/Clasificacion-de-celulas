@@ -47,4 +47,4 @@ El criterio que se utilizó para la elección del modelo fue el mejor clasificad
 ![Matriz de confusión](matriz_confusion_celulas.jpg)
 
 ## Código
-Se puede explorar el código en GitHub: [Repositorio en GitHub](https://github.com/mpia87/analisis de celulas def)
+Se puede explorar el código en GitHub: [Repositorio en GitHub](https://github.com/mpia87/clasificacion-de-celulas)
